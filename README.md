@@ -263,6 +263,8 @@ Summaries you're finding.
 
 - Iterative Implementation: O(1)
 - Recursive Implementation: O(logn) (due to the call stack)
+  ## output
+  ![image alt](https://github.com/naol13/indu-assignment-/blob/f1f1b79c252dc58d3d2b081c4f0f9e0ea009d7f4/Screenshot%202025-04-06%20225514.png)
 
 **Summary**
 
