@@ -114,6 +114,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n²) - Requires multiple passes to sort the array.
   - **Worst Case**: O(n²) - When the array is sorted in reverse order.
 - **Space Complexity**: O(1) - It sorts in place.
+  
 
 ### Pointer Quick Sort
 - **Time Complexity**:
@@ -121,7 +122,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n log n) - Generally, it performs well with random data.
   - **Worst Case**: O(n²) - When the smallest or largest element is always chosen as the pivot.
 - **Space Complexity**: O(log n) - Due to the recursive stack space.
-
+![image alt](https://github.com/naol13/indu-assignment-/blob/903035a9e6002c2aea5320338903eba7c16c6c01/Screenshot%202025-04-06%20225038.png)
 ### Pointer Merge Sort
 - **Time Complexity**:
   - **Best Case**: O(n log n) - Always divides the array and merges.
