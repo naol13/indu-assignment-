@@ -125,7 +125,6 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Worst Case**: O(n²) - When the smallest or largest element is always chosen as the pivot.
 - **Space Complexity**: O(log n) - Due to the recursive stack space.
   ![image alt](https://github.com/naol13/indu-assignment-/blob/6e321724c80da0d091fa3d96c6334508349655f0/Screenshot%202025-04-06%20225846.png)
-![image alt](https://github.com/naol13/indu-assignment-/blob/903035a9e6002c2aea5320338903eba7c16c6c01/Screenshot%202025-04-06%20225038.png)
 ### Pointer Merge Sort
 - **Time Complexity**:
   - **Best Case**: O(n log n) - Always divides the array and merges.
