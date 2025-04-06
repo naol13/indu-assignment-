@@ -221,6 +221,7 @@ Summaries you're finding.
 - time complexity o(log3 n)
 - space complexity o(1) -> itretive
     - o(log3 n) -> recursive
+![image alt](https://github.com/naol13/indu-assignment-/blob/d2472900233223733f9a6ddc31d114aace2f3256/Screenshot%202025-04-06%20230430.png)
 
 **Interpolation Search Algorithm**
 - interpolation search is  algorithms which works on sorted array 
