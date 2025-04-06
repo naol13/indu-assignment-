@@ -100,6 +100,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n²) - The same reasoning applies.
   - **Worst Case**: O(n²) - The same reasoning applies.
 - **Space Complexity**: O(1) - It sorts in place, using a constant amount of additional space.
+  ![image alt](https://github.com/naol13/indu-assignment-/blob/8d98e5abcdb35c1ded94c93ccc8f630be025e57e/Screenshot%202025-04-06%20230118.png)
 
 ### Pointer Insertion Sort
 - **Time Complexity**:
