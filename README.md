@@ -73,6 +73,8 @@ FUNCTION findThirdLargest(arr):
         RETURN third
     END IF
 END FUNCTION
+# output
+![image alt](https://github.com/naol13/indu-assignment-/blob/ba0b81fc3d8a6b60f66935b301611b923df40521/Screenshot%202025-04-06%20230547.png)
 
 
 # ASSIGNMENT 2
