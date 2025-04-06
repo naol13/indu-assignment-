@@ -23,6 +23,7 @@
             minnum = arr[i]
     End For
     Return minnum
+## output
 
 ![image alt ](https://github.com/naol13/indu-assignment-/blob/8ba9aea07e0223e085fbfe862811b80e56a36ef3/Screenshot%202025-04-06%20234710.png)
 
@@ -76,7 +77,7 @@ FUNCTION findThirdLargest(arr):
         RETURN third
     END IF
 END FUNCTION
-# output
+## output
 ![image alt](https://github.com/naol13/indu-assignment-/blob/ba0b81fc3d8a6b60f66935b301611b923df40521/Screenshot%202025-04-06%20230547.png)
 
 
@@ -105,6 +106,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n²) - The same reasoning applies.
   - **Worst Case**: O(n²) - The same reasoning applies.
 - **Space Complexity**: O(1) - It sorts in place, using a constant amount of additional space.
+  ## output
   ![image alt](https://github.com/naol13/indu-assignment-/blob/8d98e5abcdb35c1ded94c93ccc8f630be025e57e/Screenshot%202025-04-06%20230118.png)
 
 ### Pointer Insertion Sort
@@ -113,6 +115,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n²) - Involves shifting elements for each insertion.
   - **Worst Case**: O(n²) - When the array is sorted in reverse order.
 - **Space Complexity**: O(1) - It sorts in place.
+  ## output
   ![image alt](https://github.com/naol13/indu-assignment-/blob/e1bdeb4bffabb09dec07d0fdf123611dde8d6b0d/Screenshot%202025-04-06%20225302.png)
 
 ### Pointer Bubble Sort
@@ -121,6 +124,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n²) - Requires multiple passes to sort the array.
   - **Worst Case**: O(n²) - When the array is sorted in reverse order.
 - **Space Complexity**: O(1) - It sorts in place.
+  ## output
  ![image alt]( https://github.com/naol13/indu-assignment-/blob/9b62746fe10d02dd0cac5f8f2337bb1422847ab0/Screenshot%202025-04-06%20225038.png)
 
 ### Pointer Quick Sort
@@ -129,6 +133,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n log n) - Generally, it performs well with random data.
   - **Worst Case**: O(n²) - When the smallest or largest element is always chosen as the pivot.
 - **Space Complexity**: O(log n) - Due to the recursive stack space.
+  ## output
   ![image alt](https://github.com/naol13/indu-assignment-/blob/6e321724c80da0d091fa3d96c6334508349655f0/Screenshot%202025-04-06%20225846.png)
 ### Pointer Merge Sort
 - **Time Complexity**:
@@ -136,6 +141,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n log n) - Consistent performance.
   - **Worst Case**: O(n log n) - Consistent performance.
 - **Space Complexity**: O(n) - Requires additional space for temporary arrays during merging.
+  ## output
   ![image alt](https://github.com/naol13/indu-assignment-/blob/8bcaab16f41d084c9a4d367e658ee75eb6945a3b/Screenshot%202025-04-06%20225715.png)
 
 ## Summary
