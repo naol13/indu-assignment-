@@ -109,15 +109,6 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
 - **Space Complexity**: O(1) - It sorts in place.
   ![image alt](https://github.com/naol13/indu-assignment-/blob/e1bdeb4bffabb09dec07d0fdf123611dde8d6b0d/Screenshot%202025-04-06%20225302.png)
 
-
-
-
-
-
-
-
-  
-
 ### Pointer Bubble Sort
 - **Time Complexity**:
   - **Best Case**: O(n) - When the array is already sorted, it only requires a single pass.
@@ -139,6 +130,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n log n) - Consistent performance.
   - **Worst Case**: O(n log n) - Consistent performance.
 - **Space Complexity**: O(n) - Requires additional space for temporary arrays during merging.
+  ![image alt](https://github.com/naol13/indu-assignment-/blob/8bcaab16f41d084c9a4d367e658ee75eb6945a3b/Screenshot%202025-04-06%20225715.png)
 
 ## Summary
 Performance Comparison
