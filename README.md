@@ -116,7 +116,7 @@ Sorting algorithms are fundamental in computer science and are used to arrange t
   - **Average Case**: O(n²) - Requires multiple passes to sort the array.
   - **Worst Case**: O(n²) - When the array is sorted in reverse order.
 - **Space Complexity**: O(1) - It sorts in place.
-  
+ ![image alt]( https://github.com/naol13/indu-assignment-/blob/9b62746fe10d02dd0cac5f8f2337bb1422847ab0/Screenshot%202025-04-06%20225038.png)
 
 ### Pointer Quick Sort
 - **Time Complexity**:
