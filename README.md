@@ -24,6 +24,9 @@
     End For
     Return minnum
 
+![image alt ](https://github.com/naol13/indu-assignment-/blob/8ba9aea07e0223e085fbfe862811b80e56a36ef3/Screenshot%202025-04-06%20234710.png)
+
+
 
 - Write an algorithm for finding the second or the third largest element?
 
