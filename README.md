@@ -179,7 +179,7 @@ Performance Comparison
 -  both approaches are equally efficient in terms of time, but the iterative approach is generally preferred for binary search due to its lower memory overhead. However, the recursive approach can be more intuitive and easier to implement in some cases
 
 
-##### ASSIGNMENT 4
+# ASSIGNMENT 4
 Find out about Ternary and Interpolation Searching algorisms. 
 How they work?
 What is the complexity analysis?
